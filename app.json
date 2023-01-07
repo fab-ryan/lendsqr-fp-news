@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lendsqr-fp-news",
+    "slug": "lendsqr-fp-news",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
